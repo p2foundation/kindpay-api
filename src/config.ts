@@ -1,5 +1,5 @@
 export const MONGODB_URI =
-  'mongodb+srv://p2founda:uZQvbeuE44ZytJAo@cluster0.muokqns.mongodb.net/?retryWrites=true&w=majority';
+  'mongodb+srv://p2founda:XXXXXXXXXXXXX@cluster0.muokqns.mongodb.net/?retryWrites=true&w=majority';
 export const JWT_SECRET = 'UQLpZfSP5cFTaZkp';
 export const SECRET_KEY = 'RtLDEwfWCh';
 export const JWT_EXPIRE = 3600;
