@@ -2,6 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
+
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
@@ -79,4 +80,10 @@ Nest is [MIT licensed](LICENSE).
 
 ## MongoDB
 - Username - p2founda
-- Password - uZQvbeuE44ZytJAo
+- Password - XXXXXXXXXXXXXX
+
+## Github repo 
+- push an existing repository from the command line
+- git remote add origin https://github.com/p2foundation/kindpay-api.git
+- git branch -M main
+- git push -u origin main
